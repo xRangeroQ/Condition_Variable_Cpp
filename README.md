@@ -1,4 +1,4 @@
-# Condition Variable
+# 🤞 Condition Variable
 
 This repository contains a simple and effective example of using `std::condition_variable` in C++. It demonstrates how to manage thread synchronization and communication between threads using mutexes and condition variables to prevent busy-waiting.
 
